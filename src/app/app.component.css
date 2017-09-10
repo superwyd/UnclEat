@@ -1,0 +1,12 @@
+
+nav {
+  font-family: "Bradley Hand";
+  color: black;
+}
+.bg-faded {
+  background: none;
+}
+
+.navbar-nav {
+  float: right;
+}
